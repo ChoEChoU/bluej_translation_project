@@ -1,0 +1,65 @@
+appletviewer-error
+\uc560\ud50c\ub9bf \ubdf0\uc5b4\uc5d0\uc11c \uc560\ud50c\ub9bf\uc744 \uc2e4\ud589\ud558\ub294\uc911 \uc5d0\ub7ec\uac00 \ubc1c\uc0dd\ud558\uc600\uc2b5\ub2c8\ub2e4.
+
+error-no-name
+\ubc18\ub4dc\uc2dc \uc720\ud6a8\ud55c \uc774\ub984\uc774\uc5b4\uc57c \ud569\ub2c8\ub2e4.
+error-save-file
+An error occurred when trying to save
+the file. The file was not saved.
+
+cannot-save-keys
+An error occurred while trying to save
+the key bindings. The bindings were not
+saved.
+
+error-no-templates
+The specified template directory (the directory where
+BlueJ finds the class templates) does not exist. It
+is defined with the property "bluej.templatePath" in
+<bluej-home>/lib/bluej.defs. Check and fix this property.
+
+skeleton-error
+The default skeleton for the class could not be
+generated. This may be because of configuration
+error in the setup of BlueJ, or because of file
+system access problems.
+
+error-open-source
+Cannot open the source
+of this class.
+
+error-writing-jar
+jar \ud30c\uc77c\uc744 \uc62c\ubc14\ub974\uac8c \uc4f8 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+(\uc561\uc138\uc2a4 \uad8c\ud55c \ubc0f \ub514\uc2a4\ud06c \uacf5\uac04 \uc0ac\uc6a9 \uac00\ub2a5 \uc5ec\ubd80\ub97c \ud655\uc778\ud558\uc138\uc694.)
+
+error-file-exists
+\uc120\ud0dd\ud55c \ud30c\uc77c\uc774 \uc774\ubbf8 \uc874\uc7ac\ud569\ub2c8\ub2e4.
+\ub36e\uc5b4\uc4f0\uc2dc\uaca0\uc2b5\ub2c8\uae4c?
+\ub36e\uc5b4\uc4f0\uae30
+\ucde8\uc18c
+null
+
+invalid-class-name
+\uc798\ubabb\ub41c \ud074\ub798\uc2a4\uba85\uc785\ub2c8\ub2e4.
+
+invalid-package-name
+\uc798\ubabb\ub41c \ud328\ud0a4\uc9c0\uba85\uc785\ub2c8\ub2e4.
+
+duplicate-name
+\uc774 \ud56d\ubaa9\uc5d0\ub294 \uac19\uc740 \uc774\ub984\uc758 \ud074\ub798\uc2a4\ub098 \ud328\ud0a4\uc9c0\uac00 \uc774\ubbf8 \uc874\uc7ac\ud569\ub2c8\ub2e4.
+
+really-remove-class
+\uc774 \ud074\ub798\uc2a4\ub97c \uc0ad\uc81c\ud558\uba74
+\uc18c\uc2a4 \ud30c\uc77c\ub3c4 \uc601\uad6c \uc0ad\uc81c\ub420 \uac83\uc785\ub2c8\ub2e4.
+\uacc4\uc18d\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?
+\uc0ad\uc81c
+\ucde8\uc18c
+null
+
+really-remove-package
+Removing this package will permanently
+delete the package directory (including ALL
+the contents of that directory).\uacc4\uc18d\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c
+\uc0ad\uc81c
+\ub2eb\uae30
+null
